@@ -1,5 +1,4 @@
-
-> Open this page at [https://jaqster.github.io/testing-sidedocs/](https://jaqster.github.io/testing-sidedocs/)
+## Testing this Readme page in the Side Docs
 
 ## Use as Extension
 
