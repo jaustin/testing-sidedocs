@@ -1,23 +1,15 @@
-## Testing this Readme page in the Side Docs
+# Dance Steps
+## What is it?
+Use count-controlled loops and a sequence to help create a dance routine project on your BBC micro:bit. You can use the project alone or with friends.
 
-## Use as Extension
+https://www.youtube.com/watch?v=lArIGDytJuA
 
-This repository can be added as an **extension** in MakeCode.
+# How it works
+The program starts when you press button A.
+Arrows appear on the micro:bit’s LED display, which tell you how to dance – step left then right, put your hands up in the air, then point down to the floor.
+If you are using the project in a group, everyone should press button A on their micro:bits at the same time, so that you start the dance routine at the same time and remain in sync.
+After showing each image, the program pauses for a second (1000 milliseconds) before showing the next image. The pause helps everyone to keep in time.
+The sequence of dance moves repeats four times then stops. The sequence is kept going using a count-controlled loop. Count-controlled loops repeat instructions a set number of times.
+Using loops to keep things happening is an important idea in computer programming. This is also called iteration. 
+When the routine is finished, the micro:bit’s LED display is cleared.
 
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/jaqster/testing-sidedocs** and import
-
-## Edit this project
-
-To edit this repository in MakeCode.
-
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **Import** then click on **Import URL**
-* paste **https://github.com/jaqster/testing-sidedocs** and click import
-
-#### Metadata (used for search, rendering)
-
-* for PXT/microbit
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
