@@ -1,1 +1,1 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables></xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="pxt-on-start" id="*OViCnD)@Z~||=~0.mR}" x="0" y="0"><statement name="HANDLER"><block type="device_print_message" id="^chWOB/F.CE^`{a*5-sZ"><value name="text"><shadow type="text" id="K$s-daC=AEd}J8bceoLJ"><field name="TEXT">Testing SideDocs local</field></shadow></value></block></statement></block></xml>
