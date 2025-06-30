@@ -1,5 +1,7 @@
 # Dance Steps
+
 ## What is it?
+
 Use count-controlled loops and a sequence to help create a dance routine project on your BBC micro:bit. You can use the project alone or with friends.
 
 https://www.youtube.com/watch?v=lArIGDytJuA
