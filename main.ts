@@ -1,1 +1,1 @@
-basic.showString("Testing SideDocs")
+basic.showString("Testing SideDocs local")
